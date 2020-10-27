@@ -1,0 +1,7 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpackのPluginとloaderを自作してみる",
+  "main": "index.js",
+  "license": "MIT"
+}
